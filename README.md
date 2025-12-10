@@ -9,6 +9,16 @@
 
 ---
 
+### 🌱 My Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EUNTELLA&show_icons=true&theme=buefy" height="180"/>
+  <a href="https://solved.ac/moonlight052">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moonlight052" height="180"/>
+  </a>
+</div>
+<br>
+
 ### 🛠 Tech Stack
 
 **Data & AI**
@@ -25,7 +35,12 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<br>
 
+**Studying**
+<br>
+<img src="https://img.shields.io/badge/MLOps-000000?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 
 ### 📬 Contact Me
 <a href="mailto:kimeunbee87@gmail.com">
@@ -37,12 +52,3 @@
 
 <br>
 
-### 🌱 My Github Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EUNTELLA&show_icons=true&theme=buefy" height="180"/>
-  <a href="https://solved.ac/moonlight052">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moonlight052" height="180"/>
-  </a>
-</div>
-<br>
