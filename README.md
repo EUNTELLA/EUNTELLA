@@ -45,6 +45,6 @@
 ### 🌱 My Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EUNTELLA&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EUNTELLA&layout=compact&theme=radical&hide=html,css" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EUNTELLA&show_icons=true&theme=buefy" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EUNTELLA&layout=compact&theme=buefy" height="180" alt="languages graph" />
 </div>
