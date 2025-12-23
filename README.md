@@ -14,9 +14,6 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
-**Studying**  
-<img src="https://img.shields.io/badge/MLOps-000000?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/DL/ML-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 
 ## ✍️ Blog
 
