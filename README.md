@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://solved.ac/moonlight052">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moonlight052" height="150"/>
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=moonlight052" height="150"/>
   </a>
   
 </div>
