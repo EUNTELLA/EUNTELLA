@@ -2,12 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&text=👋%20Hi%20there,%20I'm%20Eunbee%20Kim!&fontColor=808080&fontSize=40" />
 </div>
 
-<div align="center">
-  <a href="https://solved.ac/moonlight052">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=moonlight052" height="150"/>
-  </a>
-  
-</div>
 
 <br/>
 
