@@ -46,9 +46,6 @@
 <a href="mailto:kimeunbee87@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
 </a>
-<a href="https://m.blog.naver.com/sunflowerera">
-<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white">
-</a>
 </div>
 
 <br/>
