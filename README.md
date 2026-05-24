@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&text=👋%20Hi%20there,%20I'm%20Eunbee%20Kim!&fontColor=808080&fontSize=40" />
-</div>
+</div> 
 
 
 <br/>
