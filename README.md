@@ -6,7 +6,12 @@
 <br/>
 
 <div style="text-align: left;"> 
-<h2>🛠️ Tech Stacks</h2>
+<!-- <h2>V</h2>
+- 도로쌤 9기
+- LG Aimers 8&9기
+- 크래프톤 정글 10기 -->
+    
+<!-- <h2>🛠️ Tech Stacks</h2>
 
 <h3>Languages</h3>
 <p>
@@ -46,7 +51,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
-</p>
+</p> -->
 
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Blog </h2> 
