@@ -72,8 +72,6 @@
 <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #d8dee4;"> 🏅 Stats </h2>
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=EUNTELLA&show_icons=true&theme=tokyonight"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EUNTELLA&layout=compact&theme=tokyonight"/>
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=euntella&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=euntella&theme=holi)
 </div>
