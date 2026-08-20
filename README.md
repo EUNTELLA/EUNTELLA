@@ -5,11 +5,15 @@
 
 <br/>
 
-<div style="text-align: left;"> 
-<!-- <h2>V</h2>
-- 도로쌤 9기
-- LG Aimers 8&9기
-- 크래프톤 정글 10기 -->
+<div style="text-align: left;">
+<h2 style="border-bottom: 1px solid #d8dee4;"> 🚀 Activities </h2>
+
+- Doro 9기 (2026.07 - )
+- JDC (2026.01 - )
+- LG Aimers 8기 & 9기
+
+<br/>
+</div>
     
 <!-- <h2>🛠️ Tech Stacks</h2>
 
